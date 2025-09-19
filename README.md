@@ -34,10 +34,10 @@ PORT=3978
 Para clonar este repositório para a sua máquina local, execute o seguinte comando:
 
 ```bash
-git clone <https://github.com/taricklorran/TEAMS_BOT_TCC.git>
+git clone https://github.com/taricklorran/TEAMS_BOT_TCC.git
 ```
 
-Substitua `<https://github.com/taricklorran/TEAMS_BOT_TCC.git>` pela URL do repositório Git.
+Substitua `https://github.com/taricklorran/TEAMS_BOT_TCC.git` pela URL do repositório Git.
 
 ## Instalação
 
